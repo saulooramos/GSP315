@@ -35,7 +35,7 @@
 5. Copie o código da função e cole na parte do código da cloud function (lembrando de trocar o ID do tópico no código)
 6. Copie também o código do package.json e cole na parte do código da cloud function
 
-Task 4 - Retire o acesso de Cloud engineer do memories project
+>Task 4 - Retire o acesso de Cloud engineer do memories project
 
 >Task 5 - Faça upload de uma imagem para o bucket
 
